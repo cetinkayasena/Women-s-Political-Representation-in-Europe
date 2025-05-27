@@ -53,18 +53,6 @@ Through this project, I enhanced my skills in:
 - Seaborn
 - Scikit-learn
 
-## 📁 Project Structure
-
-```
-
-📦 Women's Political Representation in Europe
-├── data/                   # Raw and processed datasets
-├── notebooks/              # Jupyter notebooks for EDA and modeling
-├── visuals/                # Charts and plots
-└── README.md               # Project overview
-
-```
-
 ## 📬 Contact
 
 **Sena Çetinkaya**  
