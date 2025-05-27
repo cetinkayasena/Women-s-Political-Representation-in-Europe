@@ -55,6 +55,8 @@ Through this project, I enhanced my skills in:
 
 ## 📁 Project Structure
 
+```
+
 📦 Women's Political Representation in Europe
 ├── data/                   # Raw and processed datasets
 ├── notebooks/              # Jupyter notebooks for EDA and modeling
@@ -66,4 +68,8 @@ Through this project, I enhanced my skills in:
 ## 📬 Contact
 
 **Sena Çetinkaya**  
-[GitHub Profile](https://github.com/cetinkayasena)
+[GitHub](https://github.com/cetinkayasena) • [LinkedIn](https://www.linkedin.com/in/sena-%C3%A7etinkaya-349534254/)
+
+---
+
+```
