@@ -1,7 +1,7 @@
 ```
 # Women’s Political Representation in Europe (2010–2020)
 
-This project analyzes the representation of women in politics across five European countries — including Turkey — between the years 2010 and 2020.
+This project analyzes the representation of women in politics across six European countries — including Turkey — between the years 2010 and 2020.
 
 ## 📊 Project Overview
 
