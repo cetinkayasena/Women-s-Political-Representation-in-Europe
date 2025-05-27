@@ -67,8 +67,3 @@ Through this project, I enhanced my skills in:
 
 **Sena Çetinkaya**  
 [GitHub Profile](https://github.com/cetinkayasena)
-
----
-
-> “Data-driven insights can pave the way for more inclusive political landscapes.”
-```
