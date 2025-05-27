@@ -55,8 +55,6 @@ Through this project, I enhanced my skills in:
 
 ## 📁 Project Structure
 
-```
-
 📦 Women's Political Representation in Europe
 ├── data/                   # Raw and processed datasets
 ├── notebooks/              # Jupyter notebooks for EDA and modeling
